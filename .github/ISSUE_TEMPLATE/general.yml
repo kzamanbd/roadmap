@@ -6,15 +6,6 @@ assignees:
   - kzamanbd
 
 body:
-  - type: input
-    id: topic-name
-    attributes:
-      label: Topic Name
-      description: What is the main topic or title of this issue?
-      placeholder: e.g., Implement login functionality
-    validations:
-      required: true
-
   - type: textarea
     id: description
     attributes:
