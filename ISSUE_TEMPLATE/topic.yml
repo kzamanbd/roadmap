@@ -1,8 +1,9 @@
 name: General Issue
 description: Use this template to create a new issue with topic details and progress tracking.
 title: "[Topic] "
-labels: []
-assignees: []
+labels: ["Skill"]
+assignees:
+  - kzamanbd
 
 body:
   - type: input
